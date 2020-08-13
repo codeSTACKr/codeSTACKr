@@ -1,6 +1,7 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
+
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -42,7 +43,9 @@
 ---
 
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
+
 - [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
 - [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
@@ -55,7 +58,9 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
@@ -66,6 +71,9 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
