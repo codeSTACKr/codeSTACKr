@@ -82,7 +82,7 @@
   3. 🎉 Merged PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
   4. 💪 Opened PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
   5. 🎉 Merged PR [#2](https://github.com//kubowania/battleships/pull/2) in [kubowania/battleships](https://github.com//kubowania/battleships)
-  6. 
+  
   <!--END_SECTION:activity-->
 
 </details>
