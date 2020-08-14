@@ -76,6 +76,12 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. ❗️ Opened issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#3](https://github.com//codeSTACKr/codeSTACKr/pull/3) in [codeSTACKr/codeSTACKr](https://github.com//codeSTACKr/codeSTACKr)
+4. 🎉 Merged PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
+5. 💪 Opened PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
+<!--END_SECTION:activity-->
 
 </details>
 
