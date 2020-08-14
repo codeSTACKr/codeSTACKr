@@ -17,10 +17,14 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="AWS" width="26px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" />
+<img align="left" alt="CloudFormation" width="26px" src="https://xebialabs.com/wp-content/uploads/files/tool-chest/cloudformation.jpg" />
+<img align="left" alt="Nginx" width="26px" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Flask" width="26px" src="https://github.com/mjhea0/awesome-flask/blob/master/flask-logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
