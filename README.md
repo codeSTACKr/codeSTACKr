@@ -57,14 +57,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [How to Create a public VPC](https://medium.com/@alvisf0731/how-to-create-a-public-vpc-f0ed85e59296)
+- [CloudFront distribution to restrict access to an Amazon S3 bucket](https://medium.com/@alvisf0731/cloudfront-distribution-to-restrict-access-to-an-amazon-s3-bucket-10be2b434ba2)
+- [Linux Permissions](https://medium.com/@alvisf0731/linux-permissions-89e138e0a951)
+- [S3 compute for AWS cloud practitioner Exam recap](https://medium.com/@alvisf0731/s3-compute-for-aws-cloud-practitioner-bd426ed20d65)
+- [Config SSH Locally](https://medium.com/@alvisf0731/config-ssh-locally-8066b3376f6b)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@alvisf0731)
 
 ---
 
