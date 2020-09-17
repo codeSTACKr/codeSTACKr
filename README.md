@@ -2,8 +2,8 @@
 
 ## I'm a Developer and DevOps Engineer!
 
-- 🌱 I’m currently learning the world of DevOps
-- 👯 I’m looking to upskill myself
+- ☸️ I’m currently learning the world of DevOps
+- 🦋 I’m looking to upskill myself
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Guitar, Bass, piano and drums
 
