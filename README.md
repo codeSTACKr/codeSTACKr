@@ -80,7 +80,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
@@ -93,7 +93,7 @@
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
