@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -100,6 +100,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
