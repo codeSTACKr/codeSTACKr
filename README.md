@@ -52,7 +52,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
 - [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
 - [Become A VS Code SuperHero Today! | Course Launch](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
