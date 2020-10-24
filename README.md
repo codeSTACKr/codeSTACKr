@@ -46,9 +46,9 @@ My experties is to craft websites, tell stories with data and combining the two 
 
 ### 📺 Latest Blog Posts
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/1" alt="Recent Article 1"> 
+<br/>
 ➡️ [more blog posts...][medium]
 
 ---
