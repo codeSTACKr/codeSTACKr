@@ -40,12 +40,12 @@ My experties is to craft websites, tell stories with data and combining the two 
 
 ---
 
-### 📺 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/1" alt="Recent Article 1"> 
 <br/>
-➡️ [more blog posts...][medium]
+➡️ [More Blog Posts...][medium]
 
 ---
 ### Spotify Playing 🎧
@@ -54,12 +54,8 @@ My experties is to craft websites, tell stories with data and combining the two 
 
 ### GitHub Stats
 ---
-
-<img align="left" alt="nickolastheodoulou's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickolastheodoulou&show_icons=true&hide_border=true" />
 <img align="left" alt="nickolastheodoulou's GitHub Stats 2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou" />
-
-
-
+<img align="left" alt="nickolastheodoulou's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickolastheodoulou&show_icons=true&hide_border=true" />
 
 
 [website]: https://nicktheodoulou.com
