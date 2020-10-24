@@ -48,17 +48,19 @@ My experties is to craft websites, tell stories with data and combining the two 
 ➡️ [more blog posts...][medium]
 
 ---
-
-  <summary>:GitHub Stats</summary>
-  <img align="left" alt="nickolastheodoulou's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickolastheodoulou&show_icons=true&hide_border=true" />
-  <img align="left" alt="nickolastheodoulou's GitHub Stats 2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou" />
-
----
-<br />
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="nicktheodoulou Spotify Playing" width="350" />](https://open.spotify.com/user/nicktheo69)
+
+### GitHub Stats
+---
+
+<img align="left" alt="nickolastheodoulou's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickolastheodoulou&show_icons=true&hide_border=true" />
+<img align="left" alt="nickolastheodoulou's GitHub Stats 2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou" />
+
+
+
+
 
 [website]: https://nicktheodoulou.com
 [instagram]: https://www.instagram.com/nick_the_o
