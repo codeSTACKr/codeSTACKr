@@ -52,7 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Resume Tips (Software Developers) - How To Pass Application Tracking Systems (ATS) & Get Interviews](https://www.youtube.com/watch?v=LaWubpSqiPk)
+- [Resume Tips | How To Pass Application Tracking Systems (ATS) & Get Interviews (Software Developers)](https://www.youtube.com/watch?v=LaWubpSqiPk)
 - [STACKr News 2021 (January Week 1) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=cCdYYYaJhWg)
 - [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
 - [YouTube Rewind 2020 - Web Dev Edition!](https://www.youtube.com/watch?v=F9ON_E6-y1E)
