@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News 2021 (January Week 3) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=KcGYLhYDqRY)
 - [Awesome Micro-Interaction Input Character Limit Counter | HTML, CSS, JavaScript (2021)](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
 - [STACKr News 2021 (January Week 2) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=RCIyQZp-THc)
 - [Resume Tips | How To Pass Application Tracking Systems (ATS) & Get Interviews (Software Developers)](https://www.youtube.com/watch?v=LaWubpSqiPk)
 - [STACKr News 2021 (January Week 1) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=cCdYYYaJhWg)
-- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
