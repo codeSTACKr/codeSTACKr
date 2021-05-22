@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
 - [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY)
 - [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
 - [The Third Age of JavaScript | Interview :: Swyx (2021)](https://www.youtube.com/watch?v=Nan1hqQ90_4)
 - [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
-- [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
