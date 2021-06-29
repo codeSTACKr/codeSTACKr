@@ -53,9 +53,9 @@
 
 <!-- YOUTUBE:START -->
 - [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
-- [How To Blog #short](https://www.youtube.com/watch?v=CGcv1wuwNG0)
-- [Keyword Research #short](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
-- [Catchy Blog Titles #short](https://www.youtube.com/watch?v=gLwPcnaqSMc)
+- [How To Blog #shorts](https://www.youtube.com/watch?v=CGcv1wuwNG0)
+- [Keyword Research #shorts](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
+- [Catchy Blog Titles #shorts](https://www.youtube.com/watch?v=gLwPcnaqSMc)
 - [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
 <!-- YOUTUBE:END -->
 
