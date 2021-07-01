@@ -52,7 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Another AI Programming Tool | First Look at GitHub Copilot in VS Code](https://www.youtube.com/watch?v=calK4DpJV8A)
+- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
 - [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
 - [How To Blog #shorts](https://www.youtube.com/watch?v=CGcv1wuwNG0)
 - [Keyword Research #shorts](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
