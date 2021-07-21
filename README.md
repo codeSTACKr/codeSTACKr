@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - An Introduction To Handling Exceptions In Python](https://www.youtube.com/watch?v=XxglWHo9oMw)
 - [STACKr News Shorts - Issue 3 - I Made a Game in Flutter](https://www.youtube.com/watch?v=JbO8Vfc49mQ)
 - [STACKr News Shorts - Issue 3 - Top News](https://www.youtube.com/watch?v=p91I2NebuRY)
 - [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=GODHKgtsq_s)
 - [MongoDB 5.0, Build a Flutter Game, FARM Stack ?🤯 // STACKr News Weekly - Issue 3](https://www.youtube.com/watch?v=UyO3r3_rECw)
-- [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
