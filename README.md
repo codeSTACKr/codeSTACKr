@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - Kubernetes Backup and Restore made easy!](https://www.youtube.com/watch?v=M9M0mVWAft8)
 - [STACKr News Shorts - Issue 3 - YouTube thumbnail fetcher with React & TypeScript](https://www.youtube.com/watch?v=_fx3nfYIeXU)
 - [STACKr News Shorts - Issue 3 - MongoDB in 100 Seconds](https://www.youtube.com/watch?v=X3msV_VwLqA)
 - [STACKr News Shorts - Issue 3 - How to Prepare for a Coding Bootcamp](https://www.youtube.com/watch?v=dBXbNgaM1Z4)
 - [STACKr News Shorts - Issue 3 - How I plan out my day as a Software Developer](https://www.youtube.com/watch?v=JbYSNA5MqM0)
-- [STACKr News Shorts - Issue 3 - You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=pV_-EwSe6j8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
