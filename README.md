@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/watch?v=Uf44SDEl1HM)
 - [STACKr News Shorts - Issue 4 - How to learn Git slowly](https://www.youtube.com/watch?v=lLGVf4vjo9E)
 - [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
 - [STACKr News Shorts - Issue 4 - How I Built the Portfolio That Landed Me a Dev Role](https://www.youtube.com/watch?v=2k0icnHfCC0)
 - [STACKr News Shorts - Issue 4 - "Just Build It" ...but what if I don't know how?](https://www.youtube.com/watch?v=NdXRrAnfeOM)
-- [STACKr News Shorts - Issue 4 - Low-Code Tutorial – Build 3 Financial Apps](https://www.youtube.com/watch?v=iG-Vx6L-L68)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
