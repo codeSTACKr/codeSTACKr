@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
 - [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/watch?v=GpYboktUnTY)
 - [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
 - [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/watch?v=7C3TdqA9vGs)
 - [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
