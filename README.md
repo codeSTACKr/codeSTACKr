@@ -53,8 +53,6 @@ My experties involves crafting websites, telling stories with data and combining
 ### GitHub Stats
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![nickolastheodoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolastheodoulou&show_icons=true&theme=radical)
-
 
 [website]: https://nicktheodoulou.com
 [instagram]: https://www.instagram.com/nick_the_o
