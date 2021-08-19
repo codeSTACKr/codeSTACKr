@@ -4,7 +4,7 @@
 
 ### I'm a Full Stack SAAS Enterprise Developer in the Utilities Industry 
 
-My experties involves crafting websites, telling stories with data and combining the two to create unique web apps. My wider background is with Data Analysis, Marketing And Mathematical Modeling.
+My expertise involves crafting websites, telling stories with data and combining the two to create unique web apps. My wider background is with Data Analysis, Marketing And Mathematical Modeling.
 
 ### Connect with me:
 
