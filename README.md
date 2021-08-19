@@ -2,10 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=nicktheodoulou.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nicktheodoulou.com/)
 
-### I'm a Full Stack Developer with Data Analysis and Marketing Experience. 
+### I'm a Full Stack SAAS Enterprise Developer with Data Analysis and Marketing Experience. 
 
-My experties is to craft websites, tell stories with data and combining the two to create unique web apps.
-
+My experties involves crafting websites, telling stories with data and combining the two to create unique web apps.
 
 ### Connect with me:
 
@@ -53,8 +52,8 @@ My experties is to craft websites, tell stories with data and combining the two 
 
 ### GitHub Stats
 ---
-<img align="left" alt="nickolastheodoulou's GitHub Stats 2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou" />
-<img align="left" alt="nickolastheodoulou's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickolastheodoulou&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![nickolastheodoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolastheodoulou&show_icons=true&theme=radical)
 
 
 [website]: https://nicktheodoulou.com
