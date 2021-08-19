@@ -49,8 +49,7 @@ My experties is to craft websites, tell stories with data and combining the two 
 
 ---
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="nicktheodoulou Spotify Playing" width="350" />](https://open.spotify.com/user/nicktheo69)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nicktheo69)
 
 ### GitHub Stats
 ---
