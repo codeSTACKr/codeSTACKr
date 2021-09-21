@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Like a Pro 💪, Find a Mentor 🦉, Learn Gatsby 3.0 🎓 // STACKr News Weekly](https://www.youtube.com/watch?v=nLSvAHDII_A)
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=sG28-D5o9tg)
 - [Got Scammed 😡, Top Paid Dev Jobs 💲, & How to Network for Success 📩 // STACKr News Weekly](https://www.youtube.com/watch?v=xQxnLiHz2-A)
 - [Top VS Code Updates | v1.60 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=cPxiA9enjz0)
 - [7 Days to Learn React 🤯, 30 Days to Build a SaaS 💪, 40 Min Full Stack App 🦸‍♀️ // STACKr News Weekly](https://www.youtube.com/watch?v=bsJ7bf1hx74)
-- [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=zAXG-c_JrkQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
