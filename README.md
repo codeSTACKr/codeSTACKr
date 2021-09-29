@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [State of Vue // Evan You Vue.js Live Conference Interview](https://www.youtube.com/watch?v=2TuKgTur3rs)
 - [Toggle Switches 🦁, Coding Faster 🐯, GitHub GraphQL API 🐻, Oh My!! // STACKr News Weekly](https://www.youtube.com/watch?v=AAzfCx_gdgQ)
 - [MUST Use Browser as a Web Developer in 2021!](https://www.youtube.com/watch?v=873EjlRssr4)
 - [Google Like a Pro 💪, Find a Mentor 🦉, Learn Gatsby 3.0 🎓 // STACKr News Weekly](https://www.youtube.com/watch?v=nLSvAHDII_A)
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=sG28-D5o9tg)
-- [Got Scammed 😡, Top Paid Dev Jobs 💲, & How to Network for Success 📩 // STACKr News Weekly](https://www.youtube.com/watch?v=xQxnLiHz2-A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
