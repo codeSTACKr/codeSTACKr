@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Local State & Server Cache: Finding a Balance // Natalia Tepluhina Vue.js Live Conference Interview](https://www.youtube.com/watch?v=mtN2bJ60B-4)
 - [Options API vs Composition API // Ben Hong Vue.js Live Conference Interview](https://www.youtube.com/watch?v=Sg0HdrcG8pU)
 - [State of Vue // Evan You Vue.js Live Conference Interview](https://www.youtube.com/watch?v=2TuKgTur3rs)
 - [Toggle Switches 🦁, Coding Faster 🐯, GitHub GraphQL API 🐻, Oh My!! // STACKr News Weekly](https://www.youtube.com/watch?v=AAzfCx_gdgQ)
 - [MUST Use Browser as a Web Developer in 2021!](https://www.youtube.com/watch?v=873EjlRssr4)
-- [Google Like a Pro 💪, Find a Mentor 🦉, Learn Gatsby 3.0 🎓 // STACKr News Weekly](https://www.youtube.com/watch?v=nLSvAHDII_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
