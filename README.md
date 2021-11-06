@@ -51,7 +51,7 @@
 - [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
 - [API Crash Course - Integrate, Build, & Sell an API $$$ (EASY!)](https://www.youtube.com/watch?v=FMJwaA2WMjc)
 - [#TeamSeas - Let's Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
-- [Secret Mr. Beast Video Collab!!](https://www.youtube.com/watch?v=0sxnQCfJL2g)
+- [EASY to add Animation to any Site! | #Teamseas website animation using GSAP](https://www.youtube.com/watch?v=0sxnQCfJL2g)
 - [STACKr News Weekly: Make $10k on Etsy 💲, Build Candy Crush in React 🍭, Use VS Code on ANY Device! 🤯](https://www.youtube.com/watch?v=JOWeVhSz_bY)
 <!-- YOUTUBE:END -->
 
