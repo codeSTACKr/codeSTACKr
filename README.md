@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=nicktheodoulou.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nicktheodoulou.com/)
 
-### I'm a Full Stack SAAS Enterprise Developer in the Utilities Industry 
+### I'm a Full Stack Developer in the E-commerce Industry 
 
 My expertise involves crafting websites, telling stories with data and combining the two to create unique web apps. My wider background is with Data Analysis, Marketing And Mathematical Modeling.
 
