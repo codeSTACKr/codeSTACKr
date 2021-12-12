@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CodeCats 10k NFT Collection: The Plan &lpar;I need your help!&rpar;](https://www.youtube.com/watch?v=Ki5e9pkjnho)
 - [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://www.youtube.com/watch?v=peJ9zgNhyh0)
 - [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
 - [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
 - [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
-- [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
