@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
 - [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
 - [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
 - [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 - [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
