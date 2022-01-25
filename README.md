@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: Crypto, Tech Jobs, and Remix](https://www.youtube.com/watch?v=UUjIUNMlFno)
 - [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
 - [STACKr News Weekly: Web Dev 2022, JS One-Liners, 3d JS](https://www.youtube.com/watch?v=f0O09xYo77A)
 - [STEP BY STEP Create LAYERS for your 10,000 NFT Collection for FREE - Make NFTs in Photoshop or Figma](https://www.youtube.com/watch?v=k72aCI1VyKM)
 - [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
-- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
