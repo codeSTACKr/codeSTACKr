@@ -77,11 +77,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❗️ Closed issue [#50](https://github.com/codeSTACKr/create-10k-nft-collection/issues/50) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. ❗️ Closed issue [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🗣 Commented on [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+1. 🗣 Commented on [#74](https://github.com/codeSTACKr/create-10k-nft-collection/issues/74) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+2. 🗣 Commented on [#73](https://github.com/codeSTACKr/create-10k-nft-collection/issues/73) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+3. 🗣 Commented on [#71](https://github.com/codeSTACKr/create-10k-nft-collection/issues/71) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+4. 🗣 Commented on [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+5. ❗️ Closed issue [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
 <!--END_SECTION:activity-->
 
 </details>
