@@ -14,11 +14,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="./img/globe-light.svg#gh-light-mode-only" style="padding-right:10px;" /><img align="left" alt="codeSTACKr.com" width="22px" src="./img/globe-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="./img/youtube-light.svg#gh-light-mode-only" style="padding-right:10px;" /><img align="left" alt="codeSTACKr | YouTube" width="22px" src="./img/youtube-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./img/twitter-light.svg#gh-light-mode-only" style="padding-right:10px;" /><img align="left" alt="codeSTACKr | Twitter" width="22px" src="./img/twitter-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" /><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./img/instagram-light.svg#gh-light-mode-only" /><img align="left" alt="codeSTACKr | Instagram" width="22px" src="./img/instagram-dark.svg#gh-dark-mode-only" />][instagram]
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 <br />
 
