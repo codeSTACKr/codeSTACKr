@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [EASY Non-Fungible Token Contracts Explained | ERC-20 vs ERC-721 vs ERC-1155 | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
+- [ERC-20 vs ERC-721 vs ERC-1155 | &lpar;Non&rpar;Fungible Token Contracts Explained | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
 - [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
 - [🔴 Node Congress Live Stream](https://www.youtube.com/watch?v=xBICbUafQrw)
 - [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
