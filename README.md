@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
 - [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
 - [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
 - [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
 - [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
-- [LOOK Stack Overflow Developer Survey 2022 Results Are In!!](https://www.youtube.com/watch?v=KnlXUkdJ6j8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
