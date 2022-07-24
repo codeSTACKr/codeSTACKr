@@ -5,8 +5,8 @@
 
 ## I'm a Husband && Developer (in training)!!
 
-- 🔭 I just started learning Software Engineering && Testing with @Betamore: [sept_fall_2021][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I started learning Software Engineering && Testing with @Betamore: [sept_fall_2021][course]!
+- 🌱 I’m currently learning studying JavaScript & the DOM with Udacity provided by the OneTen program.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to  and listen to lo-fi
