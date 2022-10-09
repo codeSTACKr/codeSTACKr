@@ -91,11 +91,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/codeSTACKr/nft-landing-page/pull/11) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. ❌ Closed PR [#21](https://github.com/codeSTACKr/nft-landing-page/pull/21) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-3. ❌ Closed PR [#16](https://github.com/codeSTACKr/nft-landing-page/pull/16) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-4. ❌ Closed PR [#14](https://github.com/codeSTACKr/nft-landing-page/pull/14) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-5. ❌ Closed PR [#9](https://github.com/codeSTACKr/nft-landing-page/pull/9) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
 <!--END_SECTION:activity-->
 
 </details>
