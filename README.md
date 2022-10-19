@@ -1,9 +1,9 @@
 ### Hi there, I'm Brandon 👨🏾‍💻 👋 
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<!-- [![Website](https://www.notion.so/Brandon-Price-f7a299394eb94eb09a8ee0307d20b5aa)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Brandon74611041) -->
 
-## I'm a Husband && Developer (in training)!!
+## I'm a software developer coming from a background in transportation and logistics management. I'm constantly working with computers on a day to day basis and I am always collaborating with peers on tasks and projects so I figured I would explore the opportunity to work in tech. Software development peaked my interests because I love creating and deploying solutions or tools for business needs and tools that boost productivity for me and my team. I have always been a problem-hunter and a problem solver 👨🏾‍💻!
 
 - 🔭 I started learning Software Engineering && Testing with @Betamore: [sept_fall_2021][course]!
 - 🌱 I’m currently learning studying JavaScript & the DOM with Udacity provided by the OneTen program.
@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/brndndev)
 
 ---
 
@@ -65,20 +65,14 @@
 <!--END_SECTION:activity-->
 
 </details>
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details> -->
 
 [website]: https://dev.to/brndndev
 [course]: https://github.com/betamore
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Brandon74611041
 <!-- [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr -->
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/brndndev -->
+[linkedin]: https://linkedin.com/in/brandon-j-price
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
