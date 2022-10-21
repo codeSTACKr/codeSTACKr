@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 React Advanced 2022 | The Biggest React Conference In The Cloud | GitNation](https://www.youtube.com/watch?v=vEKJU995knU)
 - [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=1GJkuRa1PjM)
 - [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
 - [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
 - [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
+- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
