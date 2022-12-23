@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VS Code Extension: Thunder Client](https://www.youtube.com/watch?v=e0bw0G19oFc)
+- [Best VS Code Extension for REST API - No More Postman](https://www.youtube.com/watch?v=e0bw0G19oFc)
 - [VS Code: How to Select Huge Divs Easily!](https://www.youtube.com/watch?v=9GCpUR9X6uc)
-- [VS Code Extension: Template String Converter](https://www.youtube.com/watch?v=o-OecCnitL0)
+- [This VS Code Extension is the BEST 🔥🔥](https://www.youtube.com/watch?v=o-OecCnitL0)
 - [What is ChatGPT? Can it Help You? It built a To-Do App.. Sorta 🤔](https://www.youtube.com/watch?v=Gz0qvqBoA4I)
-- [VS Code: Put your Sidebar on the Right &lpar;correct&rpar; Side 😅](https://www.youtube.com/watch?v=xCn6ifDmlk8)
+- [VS Code Sidebar HACK](https://www.youtube.com/watch?v=xCn6ifDmlk8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
