@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
 - [The Ultimate Guide to Launching a Successful Web Development Career in 2023](https://www.youtube.com/watch?v=8aosxBJQdVc)
 - [VS Code: Easy Refactoring!](https://www.youtube.com/watch?v=E5G6N78mMAc)
 - [Maximize Your Online Presence using this Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
 - [Best VS Code Extension for REST API - No More Postman](https://www.youtube.com/watch?v=e0bw0G19oFc)
-- [VS Code: How to Select Huge Divs Easily!](https://www.youtube.com/watch?v=9GCpUR9X6uc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
