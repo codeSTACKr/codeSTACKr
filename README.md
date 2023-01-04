@@ -66,7 +66,7 @@
 - [Best VS Code Extension for Local Development](https://www.youtube.com/watch?v=taN8XGQXxIM)
 - [Best VS Code Extension EVER!! 🔥🔥🔥](https://www.youtube.com/watch?v=9Ih0OHQ_3B8)
 - [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
-- [Web Development 101: A Beginner&#39;s Guide to Launching a Successful Career in 2023](https://www.youtube.com/watch?v=8aosxBJQdVc)
+- [Web Developer Roadmap 2023 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=8aosxBJQdVc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
