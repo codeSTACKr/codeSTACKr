@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code Snippets are soooo POWERFULL](https://www.youtube.com/watch?v=2PYVNECKzQ4)
 - [A Visual IDE for React?!? The Future of Web Development](https://www.youtube.com/watch?v=cKfevf-iIHA)
 - [Best VS Code Extension for Local Development](https://www.youtube.com/watch?v=taN8XGQXxIM)
 - [Best VS Code Extension EVER!! 🔥🔥🔥](https://www.youtube.com/watch?v=9Ih0OHQ_3B8)
 - [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
-- [Web Developer Roadmap 2023 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=8aosxBJQdVc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
