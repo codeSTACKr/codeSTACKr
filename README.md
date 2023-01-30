@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔥 Best VS Code Feature! Never Lose Your Place!](https://www.youtube.com/watch?v=NsfQaqAvKvo)
 - [Top 10 VS Code Themes 2023](https://www.youtube.com/watch?v=uIudZvpYIaM)
 - [Pro Tip 🔥 Code from Any Device with Remote Tunnels in VS Code](https://www.youtube.com/watch?v=LT-UybUdOKY)
 - [🔥 Best VS Code Extension to Keep Track of Tasks](https://www.youtube.com/watch?v=KLp9Jsdmf5g)
 - [Best VS Code Time Saver!! 🔥🔥](https://www.youtube.com/watch?v=z23VL9cvMts)
-- [Best VS Code Extension for Tailwind CSS](https://www.youtube.com/watch?v=-spaQm7M-bI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
