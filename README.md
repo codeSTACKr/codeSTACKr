@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best CSS Tool for VS Code!! 🪞 Mirror Editing](https://www.youtube.com/watch?v=ELVkK-N3kBs)
 - [The FASTEST Way to Learn to Code &amp; Become a Successful Web Developer](https://www.youtube.com/watch?v=LIxBJ_jw9tE)
 - [🛑 STOP Renaming Things in VS Code This Way!](https://www.youtube.com/watch?v=83Bk97PqaW4)
 - [Pimp my Cursor - VS Code Style](https://www.youtube.com/watch?v=5oUUDvwiI-o)
 - [🔥 Extension! Easily Identify Multiple VS Code Windows](https://www.youtube.com/watch?v=DJbLil03_vs)
-- [🔥 Best VS Code Feature! Never Lose Your Place!](https://www.youtube.com/watch?v=NsfQaqAvKvo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
