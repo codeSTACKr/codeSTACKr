@@ -91,11 +91,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-2. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-3. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-4. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-5. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+1. 🗣 Commented on [#3](https://github.com/motion-canvas/examples/issues/3) in [motion-canvas/examples](https://github.com/motion-canvas/examples)
+2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
+3. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
+4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
+5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
 <!--END_SECTION:activity-->
 
 </details>
