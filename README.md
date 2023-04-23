@@ -3,7 +3,7 @@
 <!-- [![Website](https://www.notion.so/Brandon-Price-f7a299394eb94eb09a8ee0307d20b5aa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Brandon74611041) -->
 
-## I'm a passionate tech advocate coming from a background in transportation and logistics management. I'm constantly working with computers on a day to day basis and have a respectable track record of collaborating with peers on tasks and projects that help boost my teams productivity. I have always been a problem-hunter and a problem solver 👨🏾‍💻!
+## Hey there! My name is Brandon, and I'm a front-end web developer with a passion for cybersecurity and red teaming. Whether I'm working on a personal project or contributing to someone else's, I'm always looking for ways to improve my skills and knowledge.
 
 - 🔭 I started learning Software Engineering && Testing with @Betamore: [sept_fall_2021][course]!
 - 🌱 I’m currently learning studying JavaScript & the DOM with Udacity provided by the OneTen program.
