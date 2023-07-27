@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Only AI Guide You&#39;ll Ever Need: No PhD Required](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
+- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
 - [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
 - [🤔 Should I use TypeScript, JSDoc, or Both?](https://www.youtube.com/watch?v=JTYhDiJiiFI)
 - [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
