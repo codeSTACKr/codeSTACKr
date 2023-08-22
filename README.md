@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Best UI Library that&#39;s NOT a UI Library!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
+- [The Best UI Components that EVERYONE is Using!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
 - [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
 - [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
 - [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
