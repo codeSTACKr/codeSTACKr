@@ -66,7 +66,7 @@
 - [Shadcn/ui Unveiled: Copy, Paste, and Build with React Components!  #shadcn #ui](https://www.youtube.com/watch?v=YP4ynIwMWrs)
 - [The Best UI Components that EVERYONE is Using!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
 - [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
-- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
+- [The Secret to Understanding AI: It&#39;s Easier Than You Think](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
