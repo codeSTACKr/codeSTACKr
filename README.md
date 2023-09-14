@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
 - [Vite Setup with shadcn/ui: Step-by-Step Guide to Easy Integration! #shadcn #ui](https://www.youtube.com/watch?v=PKbDGN2nxFc)
 - [Fixing shadcn/ui &amp; Tailwind Config Issue: A Simple Solution! #shadcn #ui](https://www.youtube.com/watch?v=wVfu7Uh7fM8)
 - [Astro Setup with shadcn/ui: Quick Guide to Reusable Components! #shadcn #ui](https://www.youtube.com/watch?v=TxERoQSEfIk)
 - [Dark Mode &amp; Themes in shadcn/ui: Style Your App with Ease! #shadcn #ui](https://www.youtube.com/watch?v=GRdAcBOLOA4)
-- [Why Shadcn Over Radix? Customizable Components Made Easy! #shadcn #ui](https://www.youtube.com/watch?v=8bhHHbopE30)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
