@@ -2,9 +2,17 @@
 
 [![Website](https://img.shields.io/website?label=nicktheodoulou.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nicktheodoulou.com/)
 
-### I'm a Full Stack Developer working on an Ecommerce website
 
-My expertise involves crafting websites, telling stories with data and combining the two to create unique web apps. My wider background is with Data Analysis, Marketing And Mathematical Modeling.
+### I'm a Full Stack Developer with a flair for blending art and science in web development. 
+
+🛋️ At [Dunelm](https://dunelm.com), I transform code into customer delight, bringing stories to life with data-driven web apps. 
+
+🧗Beyond the code, you'll find me jamming on my guitar, scaling rock walls, or exploring new cultures. Dive into my world of creative coding and quirky adventures!
+
+🔍 Expertise: Website Artistry, Data Storytelling, Innovative Web Apps
+
+🌱 Background: Data Analysis, Marketing, Mathematical Modeling
+
 
 ### Connect with me:
 
@@ -18,8 +26,17 @@ My expertise involves crafting websites, telling stories with data and combining
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+## Main Stack
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+
+<br />
+<br />
+
+## Other Languages and Tools
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][gatsby]
@@ -42,25 +59,21 @@ My expertise involves crafting websites, telling stories with data and combining
 
 ### 📝 Latest Blog Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nickolastheodoulou/1" alt="Recent Article 1"> 
-<br/>
-➡️ [More Blog Posts...][medium]
-
----
-### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nicktheo69)
+- 📝 [How I Aced The AWS Certified Cloud Practitioner Exam](https://engineering.dunelm.com/how-i-aced-the-aws-certified-cloud-practitioner-exam-84eae7a93674)
+- ➡️ [More Blog Posts...][medium]
 
 ### GitHub Stats
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolastheodoulou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://nicktheodoulou.com
-[instagram]: https://www.instagram.com/nick_the_o
+[instagram]: https://www.instagram.com/mr.nick.t
 [linkedin]: https://www.linkedin.com/in/nickolastheodoulou
-[medium]: https://medium.com/@nickolastheodoulou
+[medium]: https://medium.com/@nicktheodoulou96
 [bitcoin]: https://coinrequest.io/request/6nuwTyHRmOkK73M
 
+[typescript]: https://www.typescriptlang.org/
+[aws]: https://aws.amazon.com/
 [Python]: https://www.python.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org/
