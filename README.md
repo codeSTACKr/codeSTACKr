@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
 - [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
 - [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
 - [Collaboration is HARD! You Need this Web Development Workflow](https://www.youtube.com/watch?v=DZV33RjeXW0)
 - [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
-- [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
