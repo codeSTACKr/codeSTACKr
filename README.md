@@ -3,14 +3,14 @@
 <!-- [![Website](https://www.notion.so/Brandon-Price-f7a299394eb94eb09a8ee0307d20b5aa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Brandon74611041) -->
 
-## Hey there! My name is Brandon, and I'm a front-end web developer with a passion for cybersecurity and red teaming. Whether I'm working on a personal project or contributing to someone else's, I'm always looking for ways to improve my skills and knowledge.
+## 
+🔐 Aspiring Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚
 
-- 🔭 I started learning Software Engineering && Testing with @Betamore: [sept_fall_2021][course]!
-- 🌱 I’m currently learning studying JavaScript & the DOM with Udacity provided by the OneTen program.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to  and listen to lo-fi
+🔍 Actively pursuing roles in cybersecurity | GFACT certified | Gearing up for GSEC, CompTIA Security+, and Google Cybersecurity Professional Certifications 📚
 
+💻 Frontend Web Development certified | Proficient in HTML, CSS, JavaScript | Expanding skills in Python 🐍
+
+🌟 Passionate about securing digital landscapes and dedicated to continuous learning 📈
 ### Connect with me:
 
 [<img align="left" alt="brandon price | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
