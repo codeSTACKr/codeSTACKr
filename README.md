@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Best FREE VS Code AI Assistant - Spoiler: Not Copilot](https://www.youtube.com/watch?v=dNskJAl5dBw)
+- [Best VS Code AI Assistant - Spoiler: Not Copilot](https://www.youtube.com/watch?v=dNskJAl5dBw)
 - [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
 - [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
 - [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
