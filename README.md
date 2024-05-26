@@ -73,7 +73,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
