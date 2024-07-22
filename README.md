@@ -7,9 +7,22 @@ Cybersecurity and Web Development
 🔐 Aspiring Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 
 
 🔍 I am actively pursuing roles in cybersecurity as a SOC Analyst and I am capable of obtaining a US security clearance. 
-
+<br>
 <p align="left">
-<a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/fNrl-n__pHurNQLIV4DT97YFCgX2OWxHwh2rWc101ik/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29udGVudHN0/YWNrLmlvL3YzL2Fz/c2V0cy9ibHQzNmMy/ZTYzNTIxMjcyZmRj/L2JsdDhhNDdlNWFm/NjYwZmU3MjcvNjNj/NzFjMTcwOGI4NGMz/ZDllNGM5OGRmL0dG/QUNULnBuZw" width="18" height="18" alt="GIAC Foundational Cybersecurity Technologies" /></a> GFACT certified | Gearing up for GSEC, CompTIA Security+, and Google Cybersecurity Professional Certifications 📚 💻 Frontend Web Development certified | Proficient in HTML, CSS, JavaScript | Expanding skills in Python 🐍 🌟 Passionate about securing digital landscapes and dedicated to continuous learning 📈
+<a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/fNrl-n__pHurNQLIV4DT97YFCgX2OWxHwh2rWc101ik/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29udGVudHN0/YWNrLmlvL3YzL2Fz/c2V0cy9ibHQzNmMy/ZTYzNTIxMjcyZmRj/L2JsdDhhNDdlNWFm/NjYwZmU3MjcvNjNj/NzFjMTcwOGI4NGMz/ZDllNGM5OGRmL0dG/QUNULnBuZw" width="18" height="18" alt="GIAC Foundational Cybersecurity Technologies" /></a> GFACT [] ENROLLED [✅] CERTIFIED  
+<br>
+<p align="left">
+<a href="https://www.comptia.org/certifications/security" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/usRjnV1WM6-HzVYjMb41rdJn2Jy4rPofra-5jvUA71o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMTMx/ZGUyZjUtMDNmNS00/MGE3LWJjY2UtZjlh/ZTQ5ZTM5NzljL0Nv/bXBUSUFfU2VjdXJp/dHlfMkIucG5n" width="18" height="18" alt="CompTIA Security+" /></a> CompTIA Security+ [✅] ENROLLED [] CERTIFIED
+<br>
+<p align="left">
+<a href="https://www.coursera.org/programs/eduruna-google-learning-program-3nqef/professional-certificates/google-cybersecurity" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/MVUd9x8DckQLP-uqVVefD_dTW5ViXhHPp6-8mOgKKtY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3RhdGlvbngubmV0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzExLzEuLVdoYXQt/aXMtdGhlLUdvb2ds/ZS1DeWJlcnNlY3Vy/aXR5LVByb2Zlc3Np/b25hbC1DZXJ0aWZp/Y2F0ZS5wbmc" width="18" height="18" alt="Google Cybersecurity Professional Certification" /></a> Google Cybersecurity Professional Certification [✅] ENROLLED [] CERTIFIED
+<br>
+<p align="left">
+<a href="https://www.udacity.com/scholarships/oneten-bit-front-end-web-developer-scholarship" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/XfQUgYoBmzREH03iu7ARnEq2fxK4ydUHSCroHZ6ocIQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2FuaXR5LmlvL2lt/YWdlcy90bHI4b3hq/Zy9wcm9kdWN0aW9u/LzdjYzBiNTlmOTcw/MjZiNDQ4ODdhZGQ4/OTgzZjllZDNiNTY2/NGEzZWItMTIwMHg2/MzAud2VicA" width="18" height="18" alt="Front End Web Developer Scholarship" /></a>  
+Frontend Web Development [] ENROLLED [✅] CERTIFIED
+  
+<!--**Skills:** 
+Proficient in HTML, CSS, JavaScript | Expanding skills in Python 🐍 🌟 Passionate about securing digital landscapes and dedicated to continuous learning 📈-->
 
 *   🌍  I'm based in Maryland, United States
 *   ✉️  You can contact me at [brndndev@icloud.com](mailto:brndndev@icloud.com)
