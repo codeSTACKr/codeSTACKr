@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity and Web Development
 ---------------------------------
 
-🔐 Aspiring Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 🔍 Actively pursuing roles in cybersecurity | GFACT certified | Gearing up for GSEC, CompTIA Security+, and Google Cybersecurity Professional Certifications 📚 💻 Frontend Web Development certified | Proficient in HTML, CSS, JavaScript | Expanding skills in Python 🐍 🌟 Passionate about securing digital landscapes and dedicated to continuous learning 📈
+🔐 Aspiring Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 
+
+🔍 I am actively pursuing roles in cybersecurity as a SOC Analyst and I am capable of obtaining a US security clearance. 
+
+<p align="left">
+<a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/fNrl-n__pHurNQLIV4DT97YFCgX2OWxHwh2rWc101ik/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29udGVudHN0/YWNrLmlvL3YzL2Fz/c2V0cy9ibHQzNmMy/ZTYzNTIxMjcyZmRj/L2JsdDhhNDdlNWFm/NjYwZmU3MjcvNjNj/NzFjMTcwOGI4NGMz/ZDllNGM5OGRmL0dG/QUNULnBuZw" width="8" height="8" alt="GIAC Foundational Cybersecurity Technologies" /></a> GFACT certified | Gearing up for GSEC, CompTIA Security+, and Google Cybersecurity Professional Certifications 📚 💻 Frontend Web Development certified | Proficient in HTML, CSS, JavaScript | Expanding skills in Python 🐍 🌟 Passionate about securing digital landscapes and dedicated to continuous learning 📈
 
 *   🌍  I'm based in Maryland, United States
 *   ✉️  You can contact me at [brndndev@icloud.com](mailto:brndndev@icloud.com)
