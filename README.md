@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Price
 =====================================================================================================================================
 
-Cybersecurity and Web Development
+Cybersecurity Analyst and Software Developer
 ---------------------------------
 
-🔐 Aspiring Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 
+🔐 Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 
 
 🔍 I am actively pursuing roles in cybersecurity as a SOC Analyst and I am capable of obtaining a US security clearance. 
 <br>
