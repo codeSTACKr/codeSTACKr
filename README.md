@@ -8,7 +8,7 @@ Cybersecurity Analyst and Software Developer
 
 🔍 I am actively pursuing roles in cybersecurity as a SOC Analyst and I am capable of obtaining a US security clearance. 
 
-Cybersecurity Analyst and Software Developer
+Certifications
 ---------------------------------
 
 <br>
