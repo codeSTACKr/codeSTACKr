@@ -7,6 +7,9 @@ Cybersecurity Analyst and Software Developer
 🔐 Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 
 
 🔍 I am actively pursuing roles in cybersecurity as a SOC Analyst and I am capable of obtaining a US security clearance. 
+
+Cybersecurity Analyst and Software Developer
+
 <br>
 <p align="left">
 <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/fNrl-n__pHurNQLIV4DT97YFCgX2OWxHwh2rWc101ik/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29udGVudHN0/YWNrLmlvL3YzL2Fz/c2V0cy9ibHQzNmMy/ZTYzNTIxMjcyZmRj/L2JsdDhhNDdlNWFm/NjYwZmU3MjcvNjNj/NzFjMTcwOGI4NGMz/ZDllNGM5OGRmL0dG/QUNULnBuZw" width="18" height="18" alt="GIAC Foundational Cybersecurity Technologies" /></a> GFACT [] ENROLLED [✅] CERTIFIED  
