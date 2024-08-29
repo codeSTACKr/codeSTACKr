@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop Coding → Start CHOPing](https://www.youtube.com/watch?v=bvCYpVqkn54)
 - [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
 - [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
 - [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
-- [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
