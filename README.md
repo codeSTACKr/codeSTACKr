@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [A New Programming Paradigm Just Dropped, and It&#39;s Not What You Expect...](https://www.youtube.com/watch?v=bvCYpVqkn54)
+- [Developer Pro Tip: Stop Googling!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
 - [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
 - [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
