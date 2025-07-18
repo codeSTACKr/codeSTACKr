@@ -13,8 +13,8 @@
 ![GFACT](https://img.shields.io/badge/GFACT-Certified-success?style=flat-square)  
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-yellow?style=flat-square)  
 ![Security+](https://img.shields.io/badge/CompTIA%20Security+-In%20Progress-yellow?style=flat-square)  
-![Business Analytics](https://img.shields.io/badge/Udacity%20OneTen-Business%20Analytics%20ND+-In%20Progress-yellow?style=flat-square)  
-![Front-End Web Dev](https://img.shields.io/badge/Udacity%20OneTen-Front%20End%20Web%20Dev%20ND-success?style=flat-square)  
+![Business Analytics](https://img.shields.io/badge/Udacity%20OneTen-Business%20Analytics%20ND-Certified-success?style=flat-square)  
+![Front-End Web Dev](https://img.shields.io/badge/Udacity%20OneTen-Front%20End%20Web%20Dev%20ND-Certified-success?style=flat-square)  
 
 ---
 
