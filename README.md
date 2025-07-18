@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Price
 =====================================================================================================================================
 
-Cybersecurity Analyst and Software Developer
+Data Analyst with Cybersecurity and Software Development training
 ---------------------------------
 
-🔐 Cybersecurity Analyst transitioning from a managerial role in Transportation 🚚 
+📊 Data Analyst transitioning from a managerial role in Transportation 🚚 
 
-🔍 I am actively pursuing roles in cybersecurity as a SOC Analyst and I am capable of obtaining a US security clearance. 
+🔍 I am actively pursuing roles in the sphere of Business Analytics as a Data Analyst in the logistcs and supply chain or entertainment field. With my cybersecurity knowledge I am also interested in SOC roles and I am capable of obtaining a secret clearance 
 
 Certifications
 ---------------------------------
