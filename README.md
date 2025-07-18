@@ -13,17 +13,23 @@
 ![GFACT](https://img.shields.io/badge/GFACT-Certified-success?style=flat-square)  
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-yellow?style=flat-square)  
 ![Security+](https://img.shields.io/badge/CompTIA%20Security+-In%20Progress-yellow?style=flat-square)  
-![Business Analytics](https://img.shields.io/badge/Udacity%20OneTen-Business%20Analytics%20ND-Certified-success?style=flat-square)  
-![Front-End Web Dev](https://img.shields.io/badge/Udacity%20OneTen-Front%20End%20Web%20Dev%20ND-Certified-success?style=flat-square)  
+![Business Analytics](https://img.shields.io/badge/Udacity%20OneTen%20Business%20Analytics%20ND-Certified-success?style=flat-square)  
+![Front-End Web Dev](https://img.shields.io/badge/Udacity%20OneTen%20Front--End%20Web%20Dev%20ND-Certified-success?style=flat-square)    
 
 ---
 
 ## 🌍 **About Me**  
 📍 **Maryland, USA**  
 📧 **brndndev@icloud.com**  
-🧠 Currently Learning: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
-🤝 Open to: **Analytics projects, CTF competitions, Open-Source Security Projects**  
-⚡ Fun Facts: 📸 **Fashion & Portrait Photographer** | 🎮 **PS4 + Switch Gamer** | 🏈 **Ravens Fan**  
+
+### 🧠 Currently Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-1F77B4?logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+
+🤝 **Open to:** Analytics projects, CTF competitions, and Open-Source Security Projects  
+⚡ **Fun Facts:** 📸 Fashion & Portrait Photographer | 🎮 PS4 + Switch Gamer | 🏈 Ravens Fan  
 
 ---
 
