@@ -28,6 +28,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
 
+### 📚 **MOOC's I'm currently occupied with**
+![LFS101](https://trainingportal.linuxfoundation.org/courses/introduction-to-linux-lfs101)
+
 🤝 **Open to:** Analytics projects, CTF competitions, and Open-Source Security Projects  
 ⚡ **Fun Facts:** 📸 Fashion & Portrait Photographer | 🎮 PS4 + Switch Gamer | 🏈 Ravens Fan  
 
