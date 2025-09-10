@@ -75,11 +75,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Happening! Vercel 🤝 MongoDB](https://dev.to/mongodb/its-happening-vercel-mongodb-4527)
 - [The OpenAI Agents SDK for TypeScript is Missing Something—And That’s Ok](https://dev.to/mongodb/the-openai-agents-sdk-for-typescript-is-missing-something-and-thats-ok-1dco)
 - [Building a Chat Application That Doesn&#39;t Forget!](https://dev.to/mongodb/building-a-chat-application-with-mongodb-memory-provider-for-vercel-ai-sdk-56ap)
 - [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
 - [Top 8 Tips for Using Prisma with MongoDB](https://dev.to/mongodb/top-8-tips-for-using-prisma-with-mongodb-582f)
-- [10X Your Development Speed: Prisma + MongoDB + Next.js Ultimate Stack](https://dev.to/mongodb/10x-your-development-speed-prisma-mongodb-nextjs-ultimate-stack-5g1o)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
