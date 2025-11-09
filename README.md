@@ -90,8 +90,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83225](https://github.com/vercel/next.js/pull/83225#issuecomment-3246204473) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266031546) in [vercel/next.js](https://github.com/vercel/next.js)
+1.  Labeled issue [#5968](https://github.com/EclipseFdn/open-vsx.org/issues/5968) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. ❗ Opened issue [#5968](https://github.com/EclipseFdn/open-vsx.org/issues/5968) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 3. 💪 Opened PR [#68461](https://github.com/vercel/next.js/pull/68461) in [vercel/next.js](https://github.com/vercel/next.js)
 4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
 5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
