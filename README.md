@@ -90,9 +90,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
-2. ❗ Opened issue [#5968](https://github.com/EclipseFdn/open-vsx.org/issues/5968) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-3. 💪 Opened PR [#68461](https://github.com/vercel/next.js/pull/68461) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
+2. 🎉 Merged PR [#13](https://github.com/rimelabs/rime-livekit-agents/pull/13) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
+3. 💪 Opened PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
 4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
 5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
