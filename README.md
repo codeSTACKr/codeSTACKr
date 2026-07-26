@@ -90,9 +90,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
-2. 🎉 Merged PR [#13](https://github.com/rimelabs/rime-livekit-agents/pull/13) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
-3. 💪 Opened PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
+1. 🚀 Published release [v0.1.0](https://github.com/codeSTACKr/anti-slop-slop-canon/releases/tag/v0.1.0) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+3. 💪 Opened PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
 4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
 5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
